@@ -45,7 +45,7 @@
         <splash src="res/screen/windows/windows.png" target="SplashScreenPhone"/>
     </platform>
 
-    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="SplashScreenDelay" value="4000" />
     <preference name="SplashMaintainAspectRatio" value="true" />
 
 </widget>
